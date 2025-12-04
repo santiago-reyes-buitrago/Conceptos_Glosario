@@ -1,3 +1,6 @@
 [submodule "ReactiveRx"]
 	path = ReactiveRx
 	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_reactiveX.git
+[submodule "Git"]
+	path = Git
+	url = https://github.com/santiago-reyes-buitrago/Git_Glosario_Estudio.git
