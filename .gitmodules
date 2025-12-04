@@ -4,3 +4,6 @@
 [submodule "Git"]
 	path = Git
 	url = https://github.com/santiago-reyes-buitrago/Git_Glosario_Estudio.git
+[submodule "CleanSolid"]
+	path = CleanSolid
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_clean_solid.git
